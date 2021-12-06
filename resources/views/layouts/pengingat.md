@@ -1,0 +1,1 @@
+kalau di flutter ibarat general pages yang akan menampilkan semua main page
